@@ -64,3 +64,5 @@
     - $ python manualsnapshotawses.py
     
 ***Image Reference:*** https://github.com/miztiik/AWS-Demos/tree/master/How-To/setup-manual-elasticsearch-snapshots
+
+Hey dude 
